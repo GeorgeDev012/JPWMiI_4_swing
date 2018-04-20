@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JPWMiI_4_swing:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/JPWMiI_4_swing_jar</output-path>
+    <root id="archive" name="JPWMiI_4_swing.jar">
+      <element id="module-output" name="JPWMiI_4_swing" />
+    </root>
+  </artifact>
+</component>
